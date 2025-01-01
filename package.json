@@ -6,7 +6,7 @@
     "express": "^4.21.2"
   },
   "script": {
-    "dev": "node app.js"
+    "dev": "node api/app.js"
   },
   "name": "aula",
   "version": "1.0.0",
